@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.valrock</groupId>
+    <artifactId>newsline</artifactId>
+    <packaging>war</packaging>
+    <version>1.0-SNAPSHOT</version>
+
+
+    <properties>
+        <webflow-version>2.4.2.RELEASE</webflow-version>
+        <spring-framework-version>4.3.7.RELEASE</spring-framework-version>
+        <springsecurity-version>4.2.2.RELEASE</springsecurity-version>
+        <slf4j-version>1.7.21</slf4j-version>
+        <mojarra-version>2.2.6</mojarra-version>
+        <primefaces-version>6.0</primefaces-version>
+        <hibernate-version>5.2.8.Final</hibernate-version>
+        <mysqlconnector-version>6.0.5</mysqlconnector-version>
+    </properties>
+    
+</project>
